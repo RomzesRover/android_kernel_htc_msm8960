@@ -1,3 +1,11 @@
+I used arm-linux-androideabi-4.9 gcc to build this kernel. 
+You can find exact that version of toolchain, which I used here: 
+https://bitbucket.org/matthewdalex/arm-linux-androideabi-4.9/src/master/
+
+To unpack stock boot.img change zImage and repack back you can use abootimg software. 
+The instruction how to do it is here: https://gist.github.com/Nihhaar/fc8922cf2783afbad007cb2947c2b6f3
+
+
 	Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
