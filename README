@@ -1,12 +1,12 @@
-I used **arm-linux-androideabi-4.9 GCC** to build this kernel.
+I used arm-linux-androideabi-4.9 GCC to build this kernel.
 You can find the exact version of the toolchain I used here:
 https://bitbucket.org/matthewdalex/arm-linux-androideabi-4.9/src/master/
 
-To unpack the stock **boot.img**, replace the **zImage**, and repack it, you can use the **abootimg** software.
+To unpack the stock boot.img, replace the zImage, and repack it, you can use the abootimg software.
 Instructions on how to do this can be found here:
 https://gist.github.com/Nihhaar/fc8922cf2783afbad007cb2947c2b6f3
 
-Check the release page for the **compiled boot.img with overclock:**
+Check the release page for the compiled boot.img with overclock:
 https://github.com/RomzesRover/android_kernel_htc_msm8960/releases/tag/release
 
 
